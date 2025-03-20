@@ -1,0 +1,23 @@
+[
+  {
+    "id": 3,
+    "title": "Schindler's List",
+    "certificate": "15",
+    "yearOfRelease": 1993,
+    "director": "Steven Spielberg"
+  },
+  {
+    "id": 1,
+    "title": "Schindler's List",
+    "certificate": "15",
+    "yearOfRelease": 1993,
+    "director": "Steven Spielberg"
+  },
+  {
+    "id": 1,
+    "title": "Schindler's List arslan",
+    "certificate": "15",
+    "yearOfRelease": 1993,
+    "director": "Steven Spielberg"
+  }
+]
